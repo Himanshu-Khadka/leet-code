@@ -2,9 +2,9 @@
 
 - Difficulty: Easy
 - Language: Python3
-- Runtime: 4
-- Memory: 19260000
-- Submitted: 2026-06-23T21:34:55.000Z
+- Runtime: Unknown
+- Memory: 19264000
+- Submitted: 2026-06-23T21:43:47.000Z
 - Source: https://leetcode.com/problems/valid-parentheses/
 - Tags: String, Stack
 
